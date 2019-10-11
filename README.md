@@ -10,11 +10,11 @@
     ```
     + Search news in cache based on author
     ```python
-        python main.py -c search -author adam
+        python main.py -c search -a adam
     ```
     + Search news in cache based on source
     ```python
-        python main.py -c search -source BBC
+        python main.py -c search -s bbc
     ```
 
 ## Sample 2: user management
